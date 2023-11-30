@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Said Salem Gheblawi</h1>
 <h3 align="center">A passionate frontend developer from Libya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghrblawisaid&label=Profile%20views&color=0e75b6&style=flat" alt="ghrblawisaid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gheblawisaid&label=Profile%20views&color=0e75b6&style=flat" alt="gheblawisaid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghrblawisaid" alt="ghrblawisaid" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gheblawisaid" alt="gheblawisaid" /></a> </p>
 
 - 🔭 I’m currently working on **my FYP/PSM1**
 
