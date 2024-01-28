@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **C++, JavaScript**
+- 💬 Ask me about **C++, JavaScript, PHP**
 
 - 📫 How to reach me **saidgheblawi@yahoo.com**
 
